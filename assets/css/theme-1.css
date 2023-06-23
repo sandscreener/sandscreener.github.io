@@ -70,17 +70,18 @@ a.btn-cta-primary:hover, .btn-cta-primary:hover {
   color: #fff;
 }
 
+#Launch App button
 a.btn-cta-secondary, .btn-cta-secondary {
-  background: #f46fa3;
-  border: 1px solid #f46fa3;
+  background: #fe94d3;
+  border: 1px solid #fe94d3;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 a.btn-cta-secondary:hover, .btn-cta-secondary:hover {
-  background: #f25794;
-  border: 1px solid #f25794;
+  background: #e982c0;
+  border: 1px solid #e982c0;
   color: #fff;
 }
 
@@ -226,12 +227,13 @@ pre code {
 
 .promo .title {
   font-size: 98px;
-  color: #2a435c;
+  color: #252a59;
   margin-top: 0;
 }
 
+#second half of the title
 .promo .title .highlight {
-  color: #f46fa3;
+  color: #2a435c;
 }
 
 .promo .intro {
@@ -639,7 +641,7 @@ pre code {
 }
 
 .contact .social-icons a:hover {
-  background: #f04085;
+  background: #94febf;
 }
 
 .contact .social-icons a .svg-inline--fa {
